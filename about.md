@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
-
-email: agus[at]python.web.id
+I'm System Engineer and Devops Engineer. I love to learn and improve my skill. This blog is to record my working/learning experience.
